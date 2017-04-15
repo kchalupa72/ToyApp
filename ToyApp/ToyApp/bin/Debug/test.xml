@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BookList>
+	<Book>
+		<Book->0</Book->
+		<Title>Harry Potter</Title>
+		<Author>JK Rowling</Author>
+		<Year>1999</Year>
+		<Price>24.99</Price>
+	</Book>
+</BookList>

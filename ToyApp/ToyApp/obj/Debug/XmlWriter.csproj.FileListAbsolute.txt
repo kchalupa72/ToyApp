@@ -1,0 +1,9 @@
+c:\users\kenne\onedrive\documents\visual studio 2017\Projects\ToyApp\ToyApp\bin\Debug\ToyApp.exe.config
+c:\users\kenne\onedrive\documents\visual studio 2017\Projects\ToyApp\ToyApp\bin\Debug\ToyApp.exe
+c:\users\kenne\onedrive\documents\visual studio 2017\Projects\ToyApp\ToyApp\bin\Debug\ToyApp.pdb
+c:\users\kenne\onedrive\documents\visual studio 2017\Projects\ToyApp\ToyApp\obj\Debug\XmlWriter.csprojResolveAssemblyReference.cache
+c:\users\kenne\onedrive\documents\visual studio 2017\Projects\ToyApp\ToyApp\obj\Debug\ToyApp.Form1.resources
+c:\users\kenne\onedrive\documents\visual studio 2017\Projects\ToyApp\ToyApp\obj\Debug\ToyApp.Properties.Resources.resources
+c:\users\kenne\onedrive\documents\visual studio 2017\Projects\ToyApp\ToyApp\obj\Debug\XmlWriter.csproj.GenerateResource.Cache
+c:\users\kenne\onedrive\documents\visual studio 2017\Projects\ToyApp\ToyApp\obj\Debug\ToyApp.exe
+c:\users\kenne\onedrive\documents\visual studio 2017\Projects\ToyApp\ToyApp\obj\Debug\ToyApp.pdb
